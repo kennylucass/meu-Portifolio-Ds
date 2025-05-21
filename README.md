@@ -4,11 +4,11 @@ Bem-vindo ao meu portfólio! Aqui você encontrará projetos de análise de dado
 Sou um Analista de Dados apaixonado por transformar dados em insights estratégicos. Tenho formação em Análise e Desenvolvimento de Sistemas e estou cursando uma pós-graduação em Análise de Dados.  
 
 ## 🚀 Habilidades  
-- **Linguagens:** Python, SQL  
+- **Linguagens:** HTML, CSS, Python, SQL  
 - **Bibliotecas:** Pandas 
-- **Banco de Dados:** MySQL  
-- **Ferramentas de Visualização:** Power BI
-- **Machine Learning:** 
+- **Banco de Dados:** MySQL, Oracle 
+- **Machine Learning:**
+- **Sistema Operacional:** Linux 
 
 ## 📂 Projetos  
 
